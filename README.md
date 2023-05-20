@@ -28,3 +28,18 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Requirements
 
+Add library using angular
+```bash
+ng add @fortawesome/angular-fontawesome
+ng add @fortawesome/free-regular-svg-icons
+ng add @fortawesome/free-brands-svg-icons
+```
+
+Add pages
+```bash
+ng generate component home
+ng generate component source
+ng generate component server
+ng generate component members
+ng generate component projects
+```
